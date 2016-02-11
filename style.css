@@ -1,0 +1,28 @@
+body {
+	background-color: grey;
+	font-family: Georgia, Times, serif;
+	font-size: 15px;
+	color:black;
+}
+.one {
+	text-transform: capitalize;
+	
+}
+.two {
+	margin-left:15px;
+}
+a {
+		text-decoration: none;
+		color:black;
+}
+a:hover { 
+	background-color:green;
+	text-decoration: underline;
+}
+a:active {
+color: blue;
+background-color:red
+}
+a:visited {
+	color:#008d77;
+}
