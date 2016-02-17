@@ -1,15 +1,20 @@
 body {
-	background-color: grey;
+	background-color: pink;
 	font-family: Georgia, Times, serif;
-	font-size: 15px;
+	font-size: 120%;
 	color:black;
 }
 .one {
 	text-transform: capitalize;
+	text-shadow: 1px 1px 3px #666666;
+	
+	}
+	
 	
 }
 .two {
 	margin-left:15px;
+	font-size:80%;
 }
 a {
 		text-decoration: none;
@@ -25,4 +30,15 @@ background-color:red
 }
 a:visited {
 	color:#008d77;
+}
+.heading1 {
+	background-color: #dddddd;
+	color: #23ee77;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 3px #666666;}
+ #header {
+	background-color: hsl(1,1%,50%);
+	text-transform: uppercase;
+	background-color: #e5d9dd;
+	color: #ffe934:
 }
