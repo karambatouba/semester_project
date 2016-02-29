@@ -1,0 +1,152 @@
+body {
+	background: white;
+	margin: 0px;
+	font-family: arial;
+	font-size: 15px;
+	width:950px;
+	height:700px;
+}
+#page {
+	width:69.7em;
+	height:768px;
+	margin-left:10em;
+	margin-bottom:10em;
+	margin-right:10em;
+	padding-right:0em;
+	/*background-color:red;*/
+}
+#header {
+	padding:.5em;
+	width:88.5em;
+	background-color:black;
+	border: .2em solid blue;
+	color: white;
+	text-align:right;
+	
+}
+
+#navigation {
+	padding:1em;
+	background-color:white;
+	padding-bottom:2em;
+	margin-left:inerit;
+}
+#navigation ul li {
+	list-style-type:none;
+	float: right;
+	margin-left: 2em;
+	padding-bottom:1em;
+	padding-top:4em;
+}
+	#navigation ul li a{
+			text-decoration:none;
+		color:black;
+}
+	#navigation ul li a:hover{
+		padding:1em;
+		background-color:green;
+		color:white;
+	}
+		#navigation ul li a:active{
+		padding:1em;
+		background-color:red;
+		color:white;
+	}
+#dis {
+	width:6em;
+	padding-top:0.2em;
+	padding-bottom:.5em;
+	font-size:1.5em;
+	float:top-left;
+	clear:left;
+	color:white;
+	text-align:center;
+	height:-2em;
+	margin-top: 1em;
+	position:absolute;
+	top:-1em;
+	background-color:red;
+}
+#text {
+	width:4em;
+	padding:3em;
+	height:2em;
+	background-color:green;
+	float:left;
+	clear:left;
+	margin-top:0em;
+	}
+
+#hor {
+	padding-bottom:1em;
+	background-color:white;
+}
+.content .one {
+	 width:36em;
+    float:left;
+    padding:5.3em;
+padding-bottom:5em;	
+	background-color:white;
+}
+.content .two {
+	width:18em;
+    float:left;
+    padding:2.5em;
+	padding-right:2.6em;
+	padding-bottom:2.6em; 
+	background-color:white;
+}
+.content1 .one {
+		width:18em;
+		clear:both;
+    float:left;
+    padding:2.5em; 
+	background-color:white;
+}
+.content1 .two {
+		width:18em;
+    float:left;
+    padding:2.5em; 
+	background-color:white;	
+}
+.content1 .three {
+		width:18.5em;;
+    float:left;
+    padding:2.5em; 
+	padding-right:2.7em;
+	background-color:white;	
+}
+h4 {
+	padding:.5em;
+	background-color:red;
+	color:white;
+	background-image: url(../images/redbg.gif);
+}
+.content2 
+{
+	height:2.5em;
+	}
+.content2 .one {
+	width:18.2em;
+	clear:both;
+	float:left;
+	padding:2.5em;
+	padding-bottom:5em;
+	background-color:white;	
+	}
+.content2 .two {
+	width:41.4em;
+	float:left;
+	padding:2.5em;
+	padding-right:2.6em;
+	padding-bottom:2em;
+	background-color:white;	
+	}
+.hsix {
+		padding:1em;
+		margin-right:0em;
+		padding-right:0em;
+		width:6em;
+		background-color:grey;
+		color:white;
+		}
